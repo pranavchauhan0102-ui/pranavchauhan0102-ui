@@ -13,7 +13,7 @@ build real-world applications over the next four years.
 
 ## Platforms
 - 💼 [LinkedIn] (https://www.linkedin.com/in/pranav-chauhan-1b45b7373)
-- 📊 [Kaggle](#) ← add after you sign up for Kaggle
+- 📊 [Kaggle] (https://www.kaggle.com/pranavchauhan25)
 
 ## Currently Learning
 - Digital Literacy & Online Safety
