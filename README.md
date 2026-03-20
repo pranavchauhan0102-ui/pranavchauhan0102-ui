@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Pranav Chauhan. 👋
 
-<!--
-**pranavchauhan0102-ui/pranavchauhan0102-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (Core) | 1st Year | VIT Bhopal University
+📅 Expected Graduation: 2029
 
-Here are some ideas to get you started:
+## About Me
+I am a first-year Computer Science student at VIT Bhopal University.
+I hope to learn software development, problem-solving, and how to
+build real-world applications over the next four years.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Projects
+- 🎮 Number Guessing Game
+
+## Platforms
+- 💼 [LinkedIn] (https://www.linkedin.com/in/pranav-chauhan-1b45b7373)
+- 📊 [Kaggle](#) ← add after you sign up for Kaggle
+
+## Currently Learning
+- Digital Literacy & Online Safety
+- Basics of Programming
